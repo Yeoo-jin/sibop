@@ -1,0 +1,19 @@
+﻿run,capture_s,api_s,total_s,response
+1,0.0414,2.169,2.2103,"{
+  ""head_direction"": ""정면"",
+  ""gaze"": ""정면"",
+  ""expression"": ""무표정""
+}"
+2,0.0034,1.983,1.9864,"{""head_direction"": ""정면"", ""gaze"": ""정면"", ""expression"": ""미소""}"
+3,0.0043,1.5202,1.5246,"{""head_direction"": ""정면"", ""gaze"": ""정면"", ""expression"": ""무표정""}"
+4,0.0036,4.0424,4.046,"{
+  ""head_direction"": ""정면"",
+  ""gaze"": ""정면"",
+  ""expression"": ""미소""
+}"
+5,0.0049,1.7279,1.7327,"{""head_direction"": ""정면"", ""gaze"": ""정면"", ""expression"": ""말을 하는 듯한 표정""}"
+6,0.005,1.5379,1.5429,"{""head_direction"": ""정면"", ""gaze"": ""정면"", ""expression"": ""무표정""}"
+7,0.0029,1.4697,1.4725,"{""head_direction"": ""우"", ""gaze"": ""우측 상단"", ""expression"": ""골똘히 생각하는 표정""}"
+8,0.0053,2.9614,2.9667,"{""head_direction"": ""정면"", ""gaze"": ""정면"", ""expression"": ""무표정""}"
+9,0.0032,1.7125,1.7157,"{""head_direction"": ""정면"", ""gaze"": ""정면 응시"", ""expression"": ""무표정""}"
+10,0.0039,1.6151,1.619,"{""head_direction"": ""정면"", ""gaze"": ""정면"", ""expression"": ""무표정""}"

@@ -1,0 +1,6 @@
+opencv-contrib-python>=4.9   # mediapipe가 contrib 버전을 요구 (opencv-python과 함께 설치하면 충돌)
+mediapipe>=1.0
+google-genai>=1.0
+python-dotenv>=1.0
+pillow>=10.1
+pytest>=8.0
